@@ -21,8 +21,13 @@ main h2{
     font-weight: 300;
     color: white;
 }
-main p#aroundYou{
+main p.aroundYou{
     font-family: verdana;
     font-size: 21px;
     color: gray;
+}
+footer p.aroundYou{
+    text-align: right;
+    color:gray;
+        
 }
